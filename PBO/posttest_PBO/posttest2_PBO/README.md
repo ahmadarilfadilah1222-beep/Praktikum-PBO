@@ -5,8 +5,7 @@
 **Nama:** Ahmad Aril Fadillah.B\
 **NIM:** 2509106119\
 **Judul Program:** Sistem Manajemen Smart Clinic\
-**Bahasa Pemrograman:** Python
-
+**KLS:** IF C2'25
 ------------------------------------------------------------------------
 
 # 1. Deskripsi Program
@@ -737,12 +736,11 @@ menu utama Smart Clinic.
 
 # 23. Dokumentasi Screenshot
 
-Tambahkan screenshot hasil program pada bagian ini sebelum mengumpulkan
-README.
+
 
 ### 23.1 Screenshot Pengujian OOP
 
-> Masukkan screenshot hasil `PENGUJIAN PROGRAM OOP` di sini.
+![Pengujian OOP](screenshot/uji-oop.png)
 
 ### 23.2 Screenshot Menu Utama
 
@@ -750,44 +748,16 @@ README.
 
 ### 23.3 Screenshot CRUD Pasien
 
-> Masukkan screenshot proses tambah, lihat, ubah, dan hapus pasien di
-> sini.
+![CRUD Pasien](screenshot/CRUD-pasien.png)
 
 ### 23.4 Screenshot CRUD Dokter
 
-> Masukkan screenshot proses tambah, lihat, ubah, dan hapus dokter di
-> sini.
+![CRUD Dokter](screenshot/CRUD-dokter.png)
 
 ### 23.5 Screenshot CRUD Pemeriksaan
 
-> Masukkan screenshot proses tambah, lihat, ubah, dan hapus pemeriksaan
-> di sini.
+![CRUD pemeriksaan](screenshot/CRUD-pemeriksaan.png)
 
-### 23.6 Screenshot Inheritance
+### 23.6 Screenshot Info Klinik
 
-> Masukkan screenshot hasil pengujian `Dokter` dan `Perawat` sebagai
-> subclass dari `TenagaMedis`.
-
-### 23.7 Screenshot Relasi UML
-
-> Masukkan screenshot diagram UML yang menunjukkan Asosiasi, Agregasi,
-> dan Komposisi.
-
-------------------------------------------------------------------------
-
-# 24. Struktur File
-
-``` text
-Smart Clinic Posttest
-│
-├── Smart_Clinic_Posttest_Relasi_UML_Inheritance.py
-└── README.md
-```
-
-------------------------------------------------------------------------
-
-## Catatan
-
-README ini disusun berdasarkan ketentuan posttest yang diberikan dan
-implementasi program Smart Clinic. Bagian screenshot dapat dilengkapi
-setelah program dijalankan untuk menunjukkan bukti hasil implementasi.
+![Info Klinik](screensho/info-klinik.png)
