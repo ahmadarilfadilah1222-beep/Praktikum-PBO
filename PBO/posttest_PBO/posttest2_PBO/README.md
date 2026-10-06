@@ -760,4 +760,4 @@ menu utama Smart Clinic.
 
 ### 23.6 Screenshot Info Klinik
 
-![Info Klinik](screensho/info-klinik.png)
+![Info Klinik](screenshot/Info-klinik.png)
