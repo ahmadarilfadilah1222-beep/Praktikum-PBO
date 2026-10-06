@@ -5,7 +5,7 @@
 **Nama:** Ahmad Aril Fadillah.B\
 **NIM:** 2509106119\
 **Judul Program:** Sistem Manajemen Smart Clinic\
-**KLS:** IF C2'25\
+**KLS:** IF C2'25
 ------------------------------------------------------------------------
 
 # 1. Deskripsi Program
