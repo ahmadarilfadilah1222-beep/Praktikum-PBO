@@ -173,11 +173,9 @@ py posttest3_2509106119_AhmadArilFadillah.B.py
 ![Screenshot pengujian abstract class](screenshot/01-abstract-class..png)
 
 ### 8.2 Pengujian inheritance dan method overrid
-**Tempat screenshot:** simpan gambar hasil pengujian dengan nama `02-inheritance-polymorphism.png` di folder `screenshots`.
 ![Screenshot inheritance dan method overriding](screenshot/02-inheritance-polymorphism.png)
 
 ### 8.3 Pengujian duck typing
-**Tempat screenshot:** simpan gambar hasil pengujian dengan nama `03-duck-typing.png` di folder `screenshots`.
 ![Screenshot pengujian duck typing](screenshot/03-duck-typing..png)
 
 ### 8.4 Pengujian operator overloading
