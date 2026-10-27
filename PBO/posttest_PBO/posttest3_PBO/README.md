@@ -149,7 +149,7 @@ Enkapsulasi digunakan untuk membatasi akses langsung ke data tertentu dan menyed
 
 Pastikan Python 3 sudah terpasang pada komputer.
 
-1. Letakkan file `posttest3_2509106119_AhmadArilFadillah.B.py`, `README.md`, dan `class_diagram_smart_clinic.svg` di dalam folder proyek yang sama.
+1. Letakkan file `posttest3_2509106119_AhmadArilFadillah.B.py`, `README.md`, dan `screenhot` di dalam folder proyek yang sama.
 2. Buka terminal atau Command Prompt pada folder tersebut.
 3. Jalankan perintah berikut:
 
