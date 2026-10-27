@@ -170,51 +170,23 @@ py posttest3_2509106119_AhmadArilFadillah.B.py
 ## 8. Panduan Pengujian dan Screenshot
 
 ### 8.1 Pengujian abstract class
-**Yang diuji:** program mencoba membuat objek `TenagaMedis` secara langsung.
-
-**Hasil yang diharapkan:** muncul pesan bahwa abstract class tidak dapat diinstansiasi, ditangkap oleh `except TypeError`, lalu program melanjutkan pengujian.
-
-**Tempat screenshot:** simpan gambar hasil pengujian dengan nama `01-abstract-class.png` di folder `screenshots`, lalu gambar akan tampil di bawah ini.
 ![Screenshot pengujian abstract class](screenshot/01-abstract-class..png)
 
 ### 8.2 Pengujian inheritance dan method overrid
-**Yang diuji:** method `tampilkan_data()` pada objek `Dokter` dan `Perawat`.
-
-**Hasil yang diharapkan:** data dokter menampilkan spesialisasi dan nomor izin, sedangkan data perawat menampilkan ruang tugas. Keduanya dipanggil melalui satu perulangan.
-
 **Tempat screenshot:** simpan gambar hasil pengujian dengan nama `02-inheritance-polymorphism.png` di folder `screenshots`.
 ![Screenshot inheritance dan method overriding](screenshot/02-inheritance-polymorphism.png)
 
 ### 8.3 Pengujian duck typing
-**Yang diuji:** fungsi `jalankan_proses()` menerima objek `Notifikasi` dan `Pembayaran`.
-
-**Hasil yang diharapkan:** kedua objek dapat diproses oleh fungsi yang sama karena sama-sama memiliki method `proses()`, walaupun keduanya berasal dari kelas yang berbeda.
-
 **Tempat screenshot:** simpan gambar hasil pengujian dengan nama `03-duck-typing.png` di folder `screenshots`.
 ![Screenshot pengujian duck typing](screenshot/03-duck-typing..png)
 
 ### 8.4 Pengujian operator overloading
-**Yang diuji:** objek `RekamMedis` ditampilkan langsung menggunakan `print()`.
-
-**Hasil yang diharapkan:** tampil ringkasan keluhan dan diagnosis yang berasal dari method `__str__()`.
-
-**Tempat screenshot:** simpan gambar hasil pengujian dengan nama `04-operator-overloading.png` di folder `screenshots`.
 ![Screenshot operator overloading](screenshot/04-operator-overloading.png)
 
 ### 8.5 Pengujian relasi objek
-**Yang diuji:** data klinik, hubungan pemeriksaan dengan pasien dan dokter, serta rekam medis yang dibuat di dalam pemeriksaan.
-
-**Hasil yang diharapkan:** informasi klinik menampilkan jumlah pasien dan dokter; pemeriksaan dapat menampilkan pasien dan dokter yang terkait; rekam medis dapat menampilkan keluhan dan diagnosis.
-
-**Tempat screenshot:** simpan gambar hasil pengujian dengan nama `05-relasi-objek.png` di folder `screenshots`.
 ![Screenshot pengujian relasi objek](screenshot/05-relasi-objek.png)
 
 ### 8.6 Pengujian menu dan CRUD
-**Yang diuji:** menu utama dan fitur tambah, lihat, ubah, serta hapus pada menu yang tersedia.
-
-**Hasil yang diharapkan:** setiap operasi menampilkan respons yang sesuai. Lakukan pengujian dengan data contoh dan pastikan perubahan data tampil sesuai tindakan yang dipilih.
-
-**Tempat screenshot:** simpan gambar menu utama dengan nama `06-menu-utama.png` dan contoh CRUD dengan nama `07-pengujian-crud.png` di folder `screenshots`.
 ![Screenshot menu utama](screenshot/06-menu-utama.png)
 
 ### 8.7 CRUD pasien
